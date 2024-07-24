@@ -1,8 +1,8 @@
-# Project Title
-Paragraph
+# edukclick
+Plataforma de educación tipo Moddle.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/edukclick/src/logo.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

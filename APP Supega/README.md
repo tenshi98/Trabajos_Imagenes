@@ -1,8 +1,21 @@
-# Project Title
-Paragraph
+# APP Supega
+Aplicación Android que permite generar y aceptar ofertas de trabajo.
 
-## Uso 🚀
-A step by step series
+#### Presentación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva1.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva2.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva3.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva4.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva5.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva6.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva7.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva8.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva9.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva10.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva11.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva12.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva13.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Supega/src/Diapositiva14.JPG' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

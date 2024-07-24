@@ -1,8 +1,20 @@
-# Project Title
-Paragraph
+# APP SOSAmerica
+Aplicación Android de seguridad ofrecida por el canal de Perú América TV.
 
-## Uso 🚀
-A step by step series
+#### Presentación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva2.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva3.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva4.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva5.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva6.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva7.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva8.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva9.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva10.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva11.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva12.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva13.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva14.JPG' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

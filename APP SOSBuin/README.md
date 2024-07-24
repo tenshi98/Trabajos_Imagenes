@@ -1,8 +1,8 @@
-# Project Title
-Paragraph
+# APP SOSBuin
+Aplicación Android clon de la APP SOSClick, ofrecida en exclusiva para la comuna de Buin.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSBuin/src/logo_cuad3.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

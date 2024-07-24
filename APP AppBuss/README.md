@@ -1,8 +1,11 @@
-# Project Title
-Paragraph
+# APP appBuss
+Aplicación Android hecha para que el transporte público pudiera enviarse alertas de emergencia entre ellos creando una red de seguridad, lamentablemente solo conservo los logos de la APP.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20AppBuss/src/appbuss logo.png' />
+
+#### Logo 2
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20AppBuss/src/appbuss logo2.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

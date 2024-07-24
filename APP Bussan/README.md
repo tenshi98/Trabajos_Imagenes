@@ -1,8 +1,18 @@
-# Project Title
-Paragraph
+# APP Bussan
+Aplicación Android que podría ser la evolución de la APP Busafe, mezcla las características de dicha aplicación, mas las características de la aplicación SOSClick y la aplicacion AppBuss para obtener esta aplicación.
 
-## Uso 🚀
-A step by step series
+Además, ofrecía una aplicación para tablets para los choferes, con la idea de que fueran utilizadas en el Transantiago para reemplazar el sistema de seguridad que en ese tiempo lo ofrecía la empresa Sonda.
+
+Fracaso porque en ese tiempo, Carlos Valenzuela, le presento la idea completa, más sus flujos y la lógica de funcionamiento y procesos a la persona que unos meses más tarde crearía la APP Sosafe, apoyada por el gobierno de ese entonces, matando por completo esta APP
+
+#### Flujo de la APP
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Bussan/src/img_1.jpg' />
+
+#### Pantallas de inicio y principal de la APP
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Bussan/src/img_2.jpg' />
+
+#### Pantalla de la versión tablet de la APP
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Bussan/src/Sin título.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

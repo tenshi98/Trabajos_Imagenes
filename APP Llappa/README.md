@@ -1,8 +1,8 @@
-# Project Title
-Paragraph
+# APP Llappa
+Aplicación Android mutante que mezclaba la opción de tener una sim virtual para poder hacer llamadas a un costo inferior al de las empresas chilenas y una aplicación de concursos, nunca vio la luz debido a que no se definió qué tipo de aplicación era.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Llappa/src/img1.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

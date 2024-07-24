@@ -1,8 +1,20 @@
-# Project Title
-Paragraph
+# APP Aaazu
+Aplicación Android hecha para poder pagar con el celular en los puntos de la red de Pago Efectivo, además tenía una interacción con la app ClubAmerica, en donde se podían hacer "apuestas" utilizando el saldo de la APP.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/aaazu_web.png' />
+
+#### Página web con las explicaciones
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/aaazu_web.jpg' />
+
+#### Pantalla para hacer la carga desde la web
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/Captura.png' />
+
+#### Pantallas de la APP
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/img2.jpg' />
+
+#### Pantalla con el concepto del concurso y "apuestas"
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/img1.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

@@ -1,8 +1,9 @@
-# Project Title
-Paragraph
+# APP VinaSomosTodos
+Aplicación Android clon de la APP SOSClick, ofrecida en exclusiva para la comuna de Viña del Mar.
 
-## Uso 🚀
-A step by step series
+#### Flujo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20VinaSomosTodos/src/img_1.png' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20VinaSomosTodos/src/apk social consultas.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

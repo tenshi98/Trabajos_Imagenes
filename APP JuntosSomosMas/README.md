@@ -1,8 +1,14 @@
-# Project Title
-Paragraph
+# APP Juntos Somos Mas
+Aplicación Android de opinión para el partido político PS, funcionaba de forma similar a un foro con algunas ligeras modificaciones.
 
-## Uso 🚀
-A step by step series
+#### Pantalla Principal
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20JuntosSomosMas/src/1.png' />
+
+#### Foros
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20JuntosSomosMas/src/2.png' />
+
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20JuntosSomosMas/src/logo512.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

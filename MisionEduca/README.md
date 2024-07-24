@@ -1,8 +1,12 @@
-# Project Title
-Paragraph
+# MisionEduca
+Plataforma clon de edukclick, donde se ofrecían cursos impartidos por los pastores.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/MisionEduca/src/logo.png' />
+
+#### Pastores
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/MisionEduca/src/bg_html5_2.jpg' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/MisionEduca/src/bg6b.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

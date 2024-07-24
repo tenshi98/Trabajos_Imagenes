@@ -1,8 +1,8 @@
-# Project Title
-Paragraph
+# APP Jootes
+Aplicación Android Chat Roulette para conversar con personas del sexo opuesto durante 30 segundos.
 
-## Uso 🚀
-A step by step series
+#### Imagen promocional, no tengo las imágenes de la APP
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Jootes/src/joote_perfil1.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

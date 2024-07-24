@@ -1,8 +1,15 @@
-# Project Title
-Paragraph
+# APP SOSTaxi
+Aplicación Android hecha para la seguridad de los taxistas, también existe una aplicación para los pasajeros, su funcionamiento asemeja lo que hace Didi o Uber.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSTaxi/src/logo_hor.png' />
+
+#### Alertas taxistas
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSTaxi/src/img1.jpg' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSTaxi/src/img2.jpg' />
+
+#### Flujo solicitud taxis
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSTaxi/src/apk_sostaxi notoficaciones.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

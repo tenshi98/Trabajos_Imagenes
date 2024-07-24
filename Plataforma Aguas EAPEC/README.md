@@ -1,8 +1,32 @@
-# Project Title
-Paragraph
+# Plataforma Aguas EAPEC
+Plataforma diseñada para gestionar la facturación los medidores de aguas, permitiendo generar facturas electrónicas con firmas digitales a través de un servicio externo.
 
-## Uso 🚀
-A step by step series
+#### Pantalla principal
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_1.jpg' />
+
+#### Listado de Clientes
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_2.jpg' />
+
+#### Detalle de Clientes
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_3.jpg' />
+
+#### Listado de Facturaciones
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_4.jpg' />
+
+#### Detalle de la facturación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_5.jpg' />
+
+#### Detalle de la boleta
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_6.jpg' />
+
+#### Pagos de la facturación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_7.jpg' />
+
+#### Informe SIS PR02701 (para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_8.jpg' />
+
+#### Informe SIS PR02701-031 (para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_9.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
@@ -11,6 +35,7 @@ Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](L
 Puedes contactarte conmigo a traves de cualquier de los siguientes canales:
 - [Github](https://github.com/tenshi98)
 - [Linkedin](https://www.linkedin.com/in/victor-reyes-galvez/)
+- [Portafolio](https://tenshi98.github.io/portafolio/)
 - [Mi Web](https://web.digitalcreations.cl/)
 
 ## Contribuciones 🎁

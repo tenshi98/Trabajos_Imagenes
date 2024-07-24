@@ -1,8 +1,11 @@
-# Project Title
-Paragraph
+# APP PSVirtual
+Aplicación Android clon de la app Juntos Somos Mas, ofrecía exactamente lo mismo.
 
-## Uso 🚀
-A step by step series
+#### Pantalla Principal
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20PSVirtual/src/previsualizacion.jpg' />
+
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20PSVirtual/src/ps_virtual.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

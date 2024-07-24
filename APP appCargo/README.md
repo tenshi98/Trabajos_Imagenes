@@ -1,8 +1,13 @@
-# Project Title
-Paragraph
+# APP appCargo
+Aplicación Android diseñada para la gestión de los contenedores desocupados en el viaje de vuelta de los camiones, ofreciendo la posibilidad de mover cargas a un costo inferior al arrendamiento de un contenedor completo.
 
-## Uso 🚀
-A step by step series
+Desgraciadamente nunca vio la luz debido a que no se ponían de acuerdo con las tasas de participación del transportista, la empresa que ofrece la APP y los socios del negocio.
+
+#### Login del transportista
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20appCargo/src/appcargo1.png' />
+
+#### Popup con la subasta ganada
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20appCargo/src/appcargo2.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

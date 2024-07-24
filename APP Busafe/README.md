@@ -1,8 +1,8 @@
-# Project Title
-Paragraph
+# APP Busafe
+Aplicación Android hecha para la seguridad de los pasajeros en los vehículos de transporte, permitía compartir ubicación con las personas dentro de tu red de seguridad durante el viaje.
 
-## Uso 🚀
-A step by step series
+#### Logo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Busafe/src/Logo Busafe_isotipo 4.png' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
@@ -11,6 +11,7 @@ Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](L
 Puedes contactarte conmigo a traves de cualquier de los siguientes canales:
 - [Github](https://github.com/tenshi98)
 - [Linkedin](https://www.linkedin.com/in/victor-reyes-galvez/)
+- [Portafolio](https://tenshi98.github.io/portafolio/)
 - [Mi Web](https://web.digitalcreations.cl/)
 
 ## Contribuciones 🎁

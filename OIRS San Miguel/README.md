@@ -1,8 +1,37 @@
-# Project Title
-Paragraph
+# OIRS San Miguel
+Plataforma diseñada para hacer la solicitud de información a la municipalidad, mantenía un registro de las solicitudes y las respuestas a estas.
 
-## Uso 🚀
-A step by step series
+También ofrece toda la información de la persona procesada en la municipalidad.
+
+#### Pantalla Inicial
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_1.jpg' />
+
+#### Beneficios Sociales
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_2.jpg' />
+
+#### Patentes otorgadas
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_3.jpg' />
+
+#### Permisos de circulación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_4.jpg' />
+
+#### Licencia de conducir
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_5.jpg' />
+
+#### Pagos del servicio de aseo
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_6.jpg' />
+
+#### Certificados de Obras
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_7.jpg' />
+
+#### Inspecciones Municipales
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_8.jpg' />
+
+#### Permisos Provisorios
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_9.jpg' />
+
+#### Otros Pagos
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_10.jpg' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
