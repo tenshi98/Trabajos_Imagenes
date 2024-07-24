@@ -1,8 +1,30 @@
 # APP SOSClick
-Aplicación Android de seguridad ofrecida para el público en general.
+Aplicación Android de seguridad ofrecida para el público en general, entre sus características estaban la de crear redes de seguridad, envío de notificaciones de seguridad y encontrar mi dispositivo.
+
+Actualmente se le han agregado mas funcionalidades, pero mantiene las definidas en un inicio.
+
+#### Sitio Web
+[sosclick](https://www.sosclick.cl/)
+
+#### Video de Presentación
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YTnEZDfJuGk?si=-LVyxqx_9XMIUTei" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Logo
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/logo_hor.png' />
+
+#### Presentación
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva2.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva3.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva4.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva5.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva6.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva7.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva8.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva9.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva10.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva11.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva12.JPG' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/Diapositiva13.JPG' />
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
