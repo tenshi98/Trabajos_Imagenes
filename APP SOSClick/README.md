@@ -7,8 +7,7 @@ Actualmente se le han agregado mas funcionalidades, pero mantiene las definidas 
 [sosclick](https://www.sosclick.cl/)
 
 #### Video de Presentación
-[![alt text](https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/logo_hor.png)](https://www.youtube.com/embed/YTnEZDfJuGk?si=-LVyxqx_9XMIUTei)
-
+[![Alt text](https://img.youtube.com/vi/YTnEZDfJuGk/0.jpg)](https://www.youtube.com/watch?v=YTnEZDfJuGk)
 
 #### Logo
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSClick/src/logo_hor.png' />
