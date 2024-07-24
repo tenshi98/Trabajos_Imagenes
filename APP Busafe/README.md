@@ -1,5 +1,5 @@
 # APP Busafe
-Aplicación Android hecha para la seguridad de los pasajeros en los vehículos de transporte, permitía compartir ubicación con las personas dentro de tu red de seguridad durante el viaje.
+Aplicación Android diseñada para la gestión de los pasajeros y conductores de furgones escolares, se encarga de notificar al apoderado del niño cuando el furgón está cerca y de notificarlo cuando llega a su colegio, mientras que para el chofer del furgón se encarga de notificarle los niños que no asistirán dándole nuevas rutas alternativas por el pasajero faltante.
 
 #### Logo
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Busafe/src/Logo Busafe_isotipo 4.png' />
