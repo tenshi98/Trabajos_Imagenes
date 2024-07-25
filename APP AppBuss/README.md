@@ -7,6 +7,12 @@ Aplicación Android hecha para que el transporte público pudiera enviarse alert
 #### Logo 2
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20AppBuss/src/appbuss logo2.png' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

@@ -4,6 +4,12 @@ Aplicación Android Chat Roulette para conversar con personas del sexo opuesto d
 #### Imagen promocional, no tengo las imágenes de la APP
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Jootes/src/joote_perfil1.png' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

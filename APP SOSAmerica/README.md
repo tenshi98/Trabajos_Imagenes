@@ -16,6 +16,12 @@ Aplicación Android de seguridad ofrecida por el canal de Perú América TV.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva13.JPG' />
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20SOSAmerica/src/Diapositiva14.JPG' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

@@ -16,6 +16,12 @@ Aplicación Android hecha para poder pagar con el celular en los puntos de la re
 #### Pantalla con el concepto del concurso y "apuestas"
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Aaazu/src/img1.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

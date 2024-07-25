@@ -8,6 +8,12 @@ Plataforma clon de edukclick, donde se ofrecían cursos impartidos por los pasto
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/MisionEduca/src/bg_html5_2.jpg' />
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/MisionEduca/src/bg6b.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

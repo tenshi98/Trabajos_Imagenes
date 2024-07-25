@@ -4,6 +4,12 @@ Plataforma de educación tipo Moddle.
 #### Logo
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/edukclick/src/logo.png' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

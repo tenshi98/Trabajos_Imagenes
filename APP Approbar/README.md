@@ -17,6 +17,12 @@ El proyecto fracaso porque los supermercados no estaban interesados y porque no 
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Approbar/src/img_10.jpg' />
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Approbar/src/img_11.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

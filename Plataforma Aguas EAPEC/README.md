@@ -1,6 +1,8 @@
 # Plataforma Aguas EAPEC
 Plataforma diseñada para gestionar la facturación los medidores de aguas, permitiendo generar facturas electrónicas con firmas digitales a través de un servicio externo.
 
+Corre en un servidor con PHP 5.3 y no ha tenido mantencion desde el 2019, pero sigue funcionando correctamente y no han reprotado ninguna falla.
+
 #### Pantalla principal
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_1.jpg' />
 
@@ -22,11 +24,19 @@ Plataforma diseñada para gestionar la facturación los medidores de aguas, perm
 #### Pagos de la facturación
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_7.jpg' />
 
-#### Informe SIS PR02701 (para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
+#### Informe SIS PR02701
+(para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_8.jpg' />
 
-#### Informe SIS PR02701-031 (para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
+#### Informe SIS PR02701-031
+(para exportarlo a excel, luego mediante un plugin se exporta a un xml compatible con la plataforma que supervisa a todas las empresas de Agua Potable)
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Aguas%20EAPEC/src/img_9.jpg' />
+
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles

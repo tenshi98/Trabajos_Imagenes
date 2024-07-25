@@ -15,6 +15,12 @@ La APP fue hecha a pesar de todo.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20ClickFarma/src/img_7.jpg' />
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20ClickFarma/src/img_8.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

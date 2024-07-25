@@ -14,6 +14,12 @@ Fracaso porque en ese tiempo, Carlos Valenzuela, le presento la idea completa, m
 #### Pantalla de la versión tablet de la APP
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/APP%20Bussan/src/Sin título.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 

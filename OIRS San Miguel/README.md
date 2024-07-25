@@ -33,6 +33,12 @@ También ofrece toda la información de la persona procesada en la municipalidad
 #### Otros Pagos
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/OIRS%20San%20Miguel/src/img_10.jpg' />
 
+---
+
+[Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
+
+---
+
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 
