@@ -2,7 +2,9 @@
 Aquí muestro las imágenes de los distintos proyectos en los que he trabajado a lo largo de mi carrera como programador
 
 ### Activos
-Una lista de los proyectos en los que sigo trabajando activamente o que a pesar de no trabajar en éstos aún se siguen utilizando
+Una lista de los proyectos en los que sigo trabajando activamente o que a pesar de no trabajar en éstos aún se siguen utilizando.
+
+Muchos de estos están en repositorios privados debido al contrato firmado con ellos, por lo que solo estoy subiendo imágenes y describiendo lo que hace la plataforma a grandes rasgos.
 
 - [Plataforma Agropraxis](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20Agropraxis)
 - [Plataforma Aguas EAPEC](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20Aguas%20EAPEC)
@@ -45,20 +47,20 @@ Una lista de los proyectos que ya cumplieron con su función o que han sido aban
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 
 ## Contacto 📖
-Puedes contactarte conmigo a traves de cualquier de los siguientes canales:
-- [Github](ASDASD)
-- [Linkedin](ASDASD)
-- [Portafolio](ASDASD)
-- [MiWeb](ASDASD)
+Puedes contactarte conmigo a través de cualquier de los siguientes canales:
+- [Github](https://github.com/tenshi98)
+- [Linkedin](https://www.linkedin.com/in/victor-reyes-galvez/)
+- [Portafolio](https://tenshi98.github.io/portafolio/)
+- [Mi Web](https://web.digitalcreations.cl/)
 
 ## Contribuciones 🎁
-Estamos agradecidos por las contribuciones de la comunidad a este proyecto. Si encontraste cualquier valor en este proyecto o quieres contribuir, aquí está lo que puedes hacer:
+Si encontraste cualquier valor en este proyecto o quieres contribuir, aquí está lo que puedes hacer:
 
-- Comparte este proyecto con otros
-- Invítame un café ☕
-- Inicia un nuevo problema o contribuye con un PR
+- Comparte este proyecto con otros.
+- Invítame un café ☕.
+- Inicia un nuevo problema o contribuye con un PR.
 - Muestra tu agradecimiento diciendo gracias en un nuevo problema.
 
 ---
 
-⌨️ por [Victor Reyes](ASDASD) 😊
+⌨️ por [Víctor Reyes](https://github.com/tenshi98) 😊
