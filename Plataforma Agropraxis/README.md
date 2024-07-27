@@ -1,8 +1,11 @@
-# Project Title
-Paragraph
+# Plataforma Agropraxis
+Plataforma orientada a la consolidación de contenedores de exportación.
 
-## Uso 🚀
-A step by step series
+### Descripción
+Servicio de consolidación de la carga Frutícola embarcada en contenedores. Se controla el cumplimiento de las instrucciones de carga (cargas específicas). Control de las condiciones de transporte instruidas a la naviera, estiba, sellado y registro de temperaturas. Terminada la faena se emite informe oficial de la actividad desarrollada, documento que será requerido por el seguro de carga en caso de algún siniestro.
+
+#### Sitio Web
+[agropraxisgroup](https://agropraxisgroup.cl/)
 
 ---
 
