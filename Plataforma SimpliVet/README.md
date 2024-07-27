@@ -1,70 +1,65 @@
-# Plataforma Terrania
-Plataforma enfocada en la gestión de venta de los terrenos para cada línea de negocios, gestionando de principio a fin cada negociación con las empresas interesadas de forma separada para cada terreno.
+# Plataforma SimpliVet
+Plataforma dividida en tres sub-plataformas.
 
-La plataforma posee un acceso para cada rol (Administrador-Corredores-Cliente-Dueño terreno) que limita los datos y la acciones que pueden ejecutar al interior de la plataforma.
+### Descripción
+#### Plataforma Administrativa
+Esta plataforma esta encargada de administrar a los clientes, establecer sus planes de contrato y hacer las facturaciones mensuales.
 
-#### Login de la plataforma
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_1.jpg' />
+#### Plataforma Clientes
+Plataforma de gestión para centros veterinarios, entre sus funciones se encuentran:
+•	Administración Centros.
+•	Administración Trabajadores.
+•	Administración productos y servicios.
+•	Administración tutores y mascotas.
+•	Gestión Bodegas (compra, ventas, uso productos en servicios, etc.).
+•	Atención mascotas.
+•	Hospitalización mascotas.
+•	Peluquería mascotas.
+•	Hotel mascotas.
+•	Reservas de Hora para atención.
+•	Reservas de Hora para cirugías.
+•	Atención Caja.
+•	Envío de correos recordatorios de los servicios (vacunas anuales, retiro mascotas hotel, etc.).
+
+#### Plataforma Tutores
+Plataforma para los tutores, donde pueden ver sus mascotas, sus historiales médicos, sus calendarios de vacunas, hacer reservas de horas de atención o cirugía, confirmar la asistencia a dichas reservas, etc.
+
+### Imágenes
+#### Login de la plataforma Clientes
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_1.jpg' />
+
+#### Selección trabajador y centro donde va a trabajar
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_2.jpg' />
 
 #### Pantalla principal
-Se muestran las líneas de negocio, los corredores inscritos en la plataforma, Las INFO1 aceptadas por los clientes (empresas de construcción), los hitos del mes (eventos dentro de las unidades de negocio que están a punto de vencer o que se tienen que ejecutar) y las empresas desactualizadas (para mantener el listado de los contactos activos en cada empresa).
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_2.jpg' />
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_3.jpg' />
 
-#### Pantalla pre-venta de la línea de negocios
-Básicamente se muestran los terrenos y sus unidades de negocios para cada empresa (básicamente es la negociación de venta entre el terreno y la empresa) mostrando con colores el estado de la negociación.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_3.jpg' />
+#### Menú de la plataforma
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_4.jpg' />
 
-#### Menú del terreno
-Muestra las opciones para trabajar con el terreno.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_4.jpg' />
+#### Atención Mascotas
+Se muestra el filtro de búsqueda, desde donde se puede buscar con los datos del tutor o los datos de la mascota.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_5.jpg' />
 
-#### Agregar Match
-Muestra las empresas que son compatibles con el terreno (se verifica si la empresa constructora trabaja en la región y comuna del terreno, trabaja en la línea de negocios, y maneja el rango de medidas y valores que tiene el terreno), las cuales se marcan con un check y se guarda la información, de esta forma se crea la Unidad de Negocios.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_5.jpg' />
+#### Pantalla resúmen del tutor
+Muestra los datos del tutor, asi como también todas las mascotas a nombre de éste.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_6.jpg' />
 
-#### Menú Unidad de Negocios
-Es el menú de opciones para la Unidad de Negocios seleccionada.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_6.jpg' />
+#### Datos de la mascota
+Muestra todos los datos de la mascota, agrupados por el tipo de servicio.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_7.jpg' />
 
-#### Resumen Unidad de Negocios
-Es la pantalla con la información del terreno, los documentos cargados para la Unidad de Negocios y un histórico de hitos realizados.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_7.jpg' />
+#### Caja
+Se muestran todas las facturaciones pendientes de cobro generadas desde la atención de mascotas, al igual que caja también puede generar facturaciones propias.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_8.jpg' />
 
-#### Listado de Comisiones
-Muestra el listado de personas que intervienen en la repartición de comisiones.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_8.jpg' />
+#### Detalle de la facturación
+Muestra el detalle de la facturación, en este caso una atención de la mascota.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_9.jpg' />
 
-#### Solicitar Modificación de datos
-En el caso de que algún dato este incorrecto, el usuario que se da cuenta del error puede solicitar la modificación de datos al administrador o a quien este asignado como Director de negocios.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_9.jpg' />
-
-#### Asignar director de Negocios
-Permite asignar a los directores de negocios, que son los responsables de administrar todas las Unidades de Negocios del terreno, además genera un contrato de forma automática, el cual debe ser aceptado por obligación.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_10.jpg' />
-
-#### Envío INFO1
-Es el envío de información básica del terreno a los contactos de las empresas que pueden estar interesadas en la compra de éstos.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_11.jpg' />
-
-#### Listado de documentos
-Es un administrador de documentos para cada Unidad de Negocios, los cuales están ordenados por prioridades, importancias y por etapa de negociación.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_12.jpg' />
-
-#### Menú Administración
-Muestra las opciones de administración, este menú es mostrado solo a los usuarios que se le hayan otorgado los permisos.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_13.jpg' />
-
-#### Menú Informes
-Muestra las opciones de informes, este menú es mostrado solo a los usuarios que se le hayan otorgado los permisos.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_14.jpg' />
-
-#### Menú Mantención
-Muestra las opciones de mantención, este menú es mostrado solo a los usuarios que se le hayan otorgado los permisos.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_15.jpg' />
-
-#### Pre-venta Vista invertida
-Permite ver todas las unidades de negocios asignadas a cada empresa de construcción.
-<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_16.jpg' />
+#### Informe flujo caja
+Muestra en detalle todas las facturaciones valorizadas y con su estado de pago, segmentadas por el centro donde se hizo y el servicio que lo origino.
+<img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_10.jpg' />
 
 ---
 
