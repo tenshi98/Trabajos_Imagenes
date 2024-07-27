@@ -21,6 +21,7 @@ Una lista de los proyectos que ya cumplieron con su función o que han sido aban
 - [APP AppBuss](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20AppBuss)
 - [APP appCargo](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20appCargo)
 - [APP Approbar](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20Approbar)
+- [APP AppSeguridad](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20AppSeguridad)
 - [APP Busafe](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20Busafe)
 - [APP Bussan](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20Bussan)
 - [APP ClickFarma](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20ClickFarma)
@@ -42,6 +43,8 @@ Una lista de los proyectos que ya cumplieron con su función o que han sido aban
 - [edukclick](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/edukclick)
 - [MisionEduca](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/MisionEduca)
 - [OIRS San Miguel](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/OIRS%20San%20Miguel)
+- [Plataforma TodosComunicados](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20TodosComunicados)
+- [Plataforma ubica tu colectivo](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20ubica%20tu%20colectivo)
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
