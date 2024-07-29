@@ -60,6 +60,9 @@ Indica de forma detallada el estado del contrato, indica el porcentaje de avance
 Es un gráfico entre lo ganado vs lo gastado, entrando en los gastos el sueldo proporcional del trabajador relacionado al tiempo de la tarea ejecutada, el costo de los materiales para hacer la tarea y otros gastos que se pueden ingresar de forma separada al contrato.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Mantenlubric/src/img_15.jpg' />
 
+### Sitio Web
+[simyl.cl](https://www.simyl.cl/)
+
 ---
 
 [Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)

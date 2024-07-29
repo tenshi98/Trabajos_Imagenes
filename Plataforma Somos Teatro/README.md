@@ -61,6 +61,9 @@ Muestra las obras dentro de una categoría.
 Permite ver el detalle de la obra, esta puede ser solicitada solo una vez registrado e iniciada la sesión del comprador.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Somos%20Teatro/src/img_13.jpg' />
 
+### Sitio Web
+[somosteatro.cl](https://web.somosteatro.cl/)
+
 ---
 
 [Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)

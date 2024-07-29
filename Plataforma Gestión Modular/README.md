@@ -53,6 +53,9 @@ Informes separados por el servicio o los servicios contratados por los clientes.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Gesti%C3%B3n%20Modular/src/img_14.jpg' />
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Gesti%C3%B3n%20Modular/src/img_15.jpg' />
 
+### Sitio Web
+[simplytech.cl](https://www.simplytech.cl/)
+
 ---
 
 [Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
