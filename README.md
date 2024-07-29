@@ -12,6 +12,7 @@ Muchos de estos están en repositorios privados debido al contrato firmado con e
 - [Plataforma Mantenlubric](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20Mantenlubric)
 - [Plataforma Somos Teatro](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20Somos%20Teatro)
 - [Plataforma Terrania](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20Terrania)
+- [Plataforma SimpliVet](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/Plataforma%20SimpliVet)
 - [APP SOSClick](https://github.com/tenshi98/Trabajo_Imagenes/tree/main/APP%20SOSClick)
 
 ### Inactivos

@@ -6,19 +6,19 @@ Plataforma dividida en tres sub-plataformas.
 Esta plataforma esta encargada de administrar a los clientes, establecer sus planes de contrato y hacer las facturaciones mensuales.
 
 #### Plataforma Clientes
-Plataforma de gestión para centros veterinarios, entre sus funciones se encuentran:
-•	Administración Centros.
-•	Administración Trabajadores.
-•	Administración productos y servicios.
-•	Administración tutores y mascotas.
-•	Gestión Bodegas (compra, ventas, uso productos en servicios, etc.).
-•	Atención mascotas.
-•	Hospitalización mascotas.
-•	Peluquería mascotas.
-•	Hotel mascotas.
-•	Reservas de Hora para atención.
-•	Reservas de Hora para cirugías.
-•	Atención Caja.
+Plataforma de gestión para centros veterinarios, entre sus funciones se encuentran:<br/>
+•	Administración Centros.<br/>
+•	Administración Trabajadores.<br/>
+•	Administración productos y servicios.<br/>
+•	Administración tutores y mascotas.<br/>
+•	Gestión Bodegas (compra, ventas, uso productos en servicios, etc.).<br/>
+•	Atención mascotas.<br/>
+•	Hospitalización mascotas.<br/>
+•	Peluquería mascotas.<br/>
+•	Hotel mascotas.<br/>
+•	Reservas de Hora para atención.<br/>
+•	Reservas de Hora para cirugías.<br/>
+•	Atención Caja.<br/>
 •	Envío de correos recordatorios de los servicios (vacunas anuales, retiro mascotas hotel, etc.).
 
 #### Plataforma Tutores
@@ -60,6 +60,9 @@ Muestra el detalle de la facturación, en este caso una atención de la mascota.
 #### Informe flujo caja
 Muestra en detalle todas las facturaciones valorizadas y con su estado de pago, segmentadas por el centro donde se hizo y el servicio que lo origino.
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20SimpliVet/src/img_10.jpg' />
+
+### Sitio Web
+[simplivet.cl](https://simplivet.cl/)
 
 ---
 
