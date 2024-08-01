@@ -1,5 +1,5 @@
 # Plataforma Aguas EAPEC
-Plataforma diseñada para gestionar la facturación los medidores de aguas, permitiendo generar facturas electrónicas con firmas digitales a través de un servicio externo.
+Plataforma diseñada para gestionar la facturación de los medidores de aguas, entre sus características se encuentran la gestión de los clientes, la gestión del medidor o los remarcadores instalados en su propiedad, historial de mediciones, facturaciones, pagos, cortes, reposiciones y retiro de medidores, además de los distintos informes.
 
 Corre en un servidor con PHP 5.3 y no ha tenido mantención desde el 2019, pero sigue funcionando correctamente y no han reportado ninguna falla.
 
