@@ -64,6 +64,11 @@ Muestra en detalle todas las facturaciones valorizadas y con su estado de pago, 
 ### Sitio Web
 [simplivet.cl](https://simplivet.cl/)
 
+### Demo
+URL Demo: [democliente.simplivet.cl](https://democliente.simplivet.cl/)<br/>
+Usuario: demo1@testmail.com<br/>
+Contraseña: 1234
+
 ---
 
 [Volver al Repositorio](https://github.com/tenshi98/Trabajo_Imagenes/)
