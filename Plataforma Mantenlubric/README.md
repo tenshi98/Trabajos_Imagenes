@@ -1,5 +1,8 @@
 # Plataforma Mantenlubric
-Este sistema está enfocado a la gestión de lubricación de las máquinas y sus puntos, todo se gestiona a través de contratos donde se indica el número de lubricaciones dentro del año, además poder programas mantenciones preventivas o de emergencia. Posee transacciones para gestionar a los usuarios (con un control de permisos según sus roles), las máquinas, los trabajadores, las bodegas, las compras y ventas, los vendedores y sus negociaciones, entre otras.
+Este sistema está enfocado a la gestión de lubricación de las máquinas y sus puntos, todo se gestiona a través de contratos donde se indica el número de lubricaciones dentro del año, además poder programar mantenciones preventivas o de emergencia. Posee transacciones para gestionar a los usuarios (con un control de permisos según sus roles), las máquinas, los trabajadores, las bodegas, las compras y ventas, los vendedores y sus negociaciones, entre otras.
+
+### STACK
+PHP|MYSQL|HTML-5|CSS-3|Bootstrap|Javascript|Jquery
 
 #### Login
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Mantenlubric/src/img_1.jpg' />

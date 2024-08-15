@@ -1,16 +1,19 @@
 # Plataforma Gestión Modular
-Plataforma enfocada a gestionar las mediciones de telemetría a través de sus distintas interfaces para cada clientes de la empresa.
+Plataforma enfocada a gestionar las mediciones de telemetría a través de sus distintas interfaces para cada cliente. Ofrece la administración de usuarios, de equipos de telemetría, gestión de mantenciones preventivas y de urgencia a los equipos de telemetría, informes agrupados al tipo de servicio ofrecido (medición temperaturas, GPS y niveles de riego en los campos, voltajes de equipo, etc.), entre otras características.
 
-Esta es una plataforma gigante, entre sus funciones abarcan:<br/>
--Bodegas: compras-ventas-ordenes de compras.<br/>
--Recursos Humanos: trabajadores, sistemas de salud, AFP, cotizaciones, cálculo de liquidaciones, bonos, registro de horas de trabajo.<br/>
--Plataforma de aguas: copia de la plataforma de Eapec, actualizada a la versión más actual del servidor además del uso de los componentes más modernos de esta plataforma.<br/>
--Plataforma contabilidad: en relación a compras, ventas, liquidaciones, previred, boletas de honorarios, etc.<br/>
--Plataforma Elearning: proyecto abandonado, similar a moddle, se toma como base el antiguo proyecto edukclick y se le hacen varias mejoras, incluyendo la video conferencia entre múltiples personas tipo zoom y de foros creados en base a los cursos de los alumnos.<br/>
--Plataforma Facility Management: plataforma hecha para los puntos de control en los fundos del sur, llevando un registro del control de acceso de las personas a los fundos, gestión de quejas, recepción de documentación, etc.<br/>
--Plataforma de vendedores: permite la gestión completa de los vendedores, fijar reuniones, listado de prospectos y estado de fidelización de estos, porcentaje de clientes generados, ventas hechas, etc.<br/>
--Plataforma de seguridad vecinal: plataforma hecha para llevar el registro de los incidentes dentro de la zona, acceso a las cámaras públicas, foros vecinales, blog con los vecinos cercanos, etc.<br/>
--Plataforma de telemetría: gestión total de los equipos de telemetría, informes y otros datos relacionados.
+### STACK
+PHP|MYSQL|HTML-5|CSS-3|Bootstrap|Javascript|Jquery|Chart.js|Plotly.js| DomPDF|TCPDF|PHP Machine Learning|PHP Office|Placas Arduino|External Services (Email-Whatsapp-WebService MeteoChile)
+
+### Funciones
+Ademas de todas las transacciones relacionadas a telemetría, también existen otras:<br/>
+-<strong>Bodegas:</strong> compras-ventas-ordenes de compras.<br/>
+-<strong>Recursos Humanos:</strong> trabajadores, sistemas de salud, AFP, cotizaciones, cálculo de liquidaciones, bonos, registro de horas de trabajo.<br/>
+-<strong>Plataforma de aguas:</strong> copia de la plataforma de Eapec, actualizada a la versión más actual del servidor además del uso de los componentes más modernos de esta plataforma.<br/>
+-<strong>Plataforma contabilidad:</strong> en relación a compras, ventas, liquidaciones, previred, boletas de honorarios, etc.<br/>
+-<strong>Plataforma Elearning:</strong> proyecto abandonado, similar a moddle, se toma como base el antiguo proyecto edukclick y se le hacen varias mejoras, incluyendo la video conferencia entre múltiples personas tipo zoom y de foros creados en base a los cursos de los alumnos.<br/>
+-<strong>Plataforma Facility Management:</strong> plataforma hecha para los puntos de control en los fundos del sur, llevando un registro del control de acceso de las personas a los fundos, gestión de quejas, recepción de documentación, etc.<br/>
+-<strong>Plataforma de vendedores:</strong> permite la gestión completa de los vendedores, fijar reuniones, listado de prospectos y estado de fidelización de estos, porcentaje de clientes generados, ventas hechas, etc.<br/>
+-<strong>Plataforma de seguridad vecinal:</strong> plataforma hecha para llevar el registro de los incidentes dentro de la zona, acceso a las cámaras públicas, foros vecinales, blog con los vecinos cercanos, etc.<br/>
 
 #### Login
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Gesti%C3%B3n%20Modular/src/img_1.jpg' />

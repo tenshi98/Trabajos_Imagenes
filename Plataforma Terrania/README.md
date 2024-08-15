@@ -3,6 +3,9 @@ Plataforma enfocada en la gestión de venta de los terrenos para cada línea de 
 
 La plataforma posee un acceso para cada rol (Administrador-Corredores-Cliente-Dueño terreno) que limita los datos y la acciones que pueden ejecutar al interior de la plataforma.
 
+### STACK
+PHP|MYSQL|HTML-5|CSS-3|Bootstrap|Javascript|Jquery|Mailing
+
 #### Login de la plataforma
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Terrania/src/img_1.jpg' />
 

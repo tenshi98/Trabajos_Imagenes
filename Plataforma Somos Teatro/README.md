@@ -1,5 +1,5 @@
 # Plataforma Somos Teatro
-Plataforma enfocada en la gestión de venta de obras de teatro a las empresas interesadas, gestionando de principio a fin cada negociación con las empresas de forma separada para cada caso.
+Plataforma enfocada en la gestión de venta de obras de teatro a las empresas interesadas, gestionando de principio a fin los avances en la negociación con las empresas de forma separada para cada caso.
 
 Esta plataforma está dividida en otras 3 plataformas:
 - Acceso de los administradores.
@@ -9,6 +9,9 @@ Esta plataforma está dividida en otras 3 plataformas:
 La plataforma de los compradores es también la página web visible de la empresa.
 
 La interfaz y el flujo de trabajo las creo un diseñador gráfico, por lo que son un poco raro.
+
+### STACK
+PHP|MYSQL|HTML-5|CSS-3|Bootstrap|Javascript|Jquery|Mailing
 
 #### Login
 <img src='https://raw.githubusercontent.com/tenshi98/Trabajo_Imagenes/main/Plataforma%20Somos%20Teatro/src/img_1.jpg' />
