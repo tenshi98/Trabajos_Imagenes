@@ -1,7 +1,7 @@
 # Plataforma SimpliVet
 Plataforma dividida en tres sub-plataformas.
 
-### Demo lataforma Clientes
+### Demo Plataforma Clientes
 URL Demo: [democliente.simplivet.cl](https://democliente.simplivet.cl/)<br/>
 Usuario: demo1@testmail.com<br/>
 Contraseña: 1234
